@@ -1,0 +1,7 @@
+C:\Users\ACT-STUDENT\Desktop\EXER_03 User Input with Constructor\EXER_03 User Input with Constructor\EXER_03 User Input with Constructor\bin\Debug\EXER_03 User Input with Constructor.exe.config
+C:\Users\ACT-STUDENT\Desktop\EXER_03 User Input with Constructor\EXER_03 User Input with Constructor\EXER_03 User Input with Constructor\bin\Debug\EXER_03 User Input with Constructor.exe
+C:\Users\ACT-STUDENT\Desktop\EXER_03 User Input with Constructor\EXER_03 User Input with Constructor\EXER_03 User Input with Constructor\bin\Debug\EXER_03 User Input with Constructor.pdb
+C:\Users\ACT-STUDENT\Desktop\EXER_03 User Input with Constructor\EXER_03 User Input with Constructor\EXER_03 User Input with Constructor\obj\Debug\EXER_03 User Input with Constructor.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Desktop\EXER_03 User Input with Constructor\EXER_03 User Input with Constructor\EXER_03 User Input with Constructor\obj\Debug\EXER_03 User Input with Constructor.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Desktop\EXER_03 User Input with Constructor\EXER_03 User Input with Constructor\EXER_03 User Input with Constructor\obj\Debug\EXER_03 User Input with Constructor.exe
+C:\Users\ACT-STUDENT\Desktop\EXER_03 User Input with Constructor\EXER_03 User Input with Constructor\EXER_03 User Input with Constructor\obj\Debug\EXER_03 User Input with Constructor.pdb
