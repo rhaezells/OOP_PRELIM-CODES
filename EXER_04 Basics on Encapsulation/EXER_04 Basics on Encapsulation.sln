@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EXER_04 Basics on Encapsulation", "EXER_04 Basics on Encapsulation\EXER_04 Basics on Encapsulation.csproj", "{2D49F8F9-C0BC-4950-B648-1E4090DA3EA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D49F8F9-C0BC-4950-B648-1E4090DA3EA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D49F8F9-C0BC-4950-B648-1E4090DA3EA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D49F8F9-C0BC-4950-B648-1E4090DA3EA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D49F8F9-C0BC-4950-B648-1E4090DA3EA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4BC9E60A-44A3-4522-AE48-829E8BB822A9}
+	EndGlobalSection
+EndGlobal
