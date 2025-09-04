@@ -1,0 +1,7 @@
+C:\Users\ACT-STUDENT\Desktop\EXER_04 Basics on Encapsulation\EXER_04 Basics on Encapsulation\EXER_04 Basics on Encapsulation\bin\Debug\EXER_04 Basics on Encapsulation.exe.config
+C:\Users\ACT-STUDENT\Desktop\EXER_04 Basics on Encapsulation\EXER_04 Basics on Encapsulation\EXER_04 Basics on Encapsulation\bin\Debug\EXER_04 Basics on Encapsulation.exe
+C:\Users\ACT-STUDENT\Desktop\EXER_04 Basics on Encapsulation\EXER_04 Basics on Encapsulation\EXER_04 Basics on Encapsulation\bin\Debug\EXER_04 Basics on Encapsulation.pdb
+C:\Users\ACT-STUDENT\Desktop\EXER_04 Basics on Encapsulation\EXER_04 Basics on Encapsulation\EXER_04 Basics on Encapsulation\obj\Debug\EXER_04 Basics on Encapsulation.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Desktop\EXER_04 Basics on Encapsulation\EXER_04 Basics on Encapsulation\EXER_04 Basics on Encapsulation\obj\Debug\EXER_04 Basics on Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Desktop\EXER_04 Basics on Encapsulation\EXER_04 Basics on Encapsulation\EXER_04 Basics on Encapsulation\obj\Debug\EXER_04 Basics on Encapsulation.exe
+C:\Users\ACT-STUDENT\Desktop\EXER_04 Basics on Encapsulation\EXER_04 Basics on Encapsulation\EXER_04 Basics on Encapsulation\obj\Debug\EXER_04 Basics on Encapsulation.pdb
