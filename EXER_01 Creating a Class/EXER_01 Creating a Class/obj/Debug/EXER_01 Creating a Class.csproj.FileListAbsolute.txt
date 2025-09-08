@@ -1,0 +1,7 @@
+C:\Users\ACT-STUDENT\Desktop\EXER_01 Creating a Class\EXER_01 Creating a Class\EXER_01 Creating a Class\bin\Debug\EXER_01 Creating a Class.exe.config
+C:\Users\ACT-STUDENT\Desktop\EXER_01 Creating a Class\EXER_01 Creating a Class\EXER_01 Creating a Class\bin\Debug\EXER_01 Creating a Class.exe
+C:\Users\ACT-STUDENT\Desktop\EXER_01 Creating a Class\EXER_01 Creating a Class\EXER_01 Creating a Class\bin\Debug\EXER_01 Creating a Class.pdb
+C:\Users\ACT-STUDENT\Desktop\EXER_01 Creating a Class\EXER_01 Creating a Class\EXER_01 Creating a Class\obj\Debug\EXER_01 Creating a Class.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Desktop\EXER_01 Creating a Class\EXER_01 Creating a Class\EXER_01 Creating a Class\obj\Debug\EXER_01 Creating a Class.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Desktop\EXER_01 Creating a Class\EXER_01 Creating a Class\EXER_01 Creating a Class\obj\Debug\EXER_01 Creating a Class.exe
+C:\Users\ACT-STUDENT\Desktop\EXER_01 Creating a Class\EXER_01 Creating a Class\EXER_01 Creating a Class\obj\Debug\EXER_01 Creating a Class.pdb
